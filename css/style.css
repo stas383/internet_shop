@@ -1,0 +1,88 @@
+*
+{
+    background: url("img/bg.png");
+}
+#container
+{
+    width: 1000px;
+    margin: 0 auto;
+}
+header
+{
+    width: 750px;
+    height: 200px;
+    margin: 0 auto;
+}
+nav
+{
+    width: 750px;
+    height: 80px;
+    margin: 0 auto;
+}
+#logo img
+{
+    height: 190px;
+    width: 300px;
+}
+ul
+{
+    list-style: none;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    font-family: 'Tahoma', serif;
+    color: #00FFFF;
+}
+nav
+{
+    display: block;
+    width: 750px;
+    margin: 0 auto 30px;
+}
+.one ul {
+    padding: 1em 0;
+    background: #AFEEEE;
+}
+.one a {
+    padding: 1em;
+    background:#AFEEEE;
+    border-right: 1px solid #00FFFF;
+    color: #695753;
+}
+.one a:hover {background: #00CED1;}
+.one li {
+    display: inline;
+}
+article
+{
+    width: 750px;
+    margin: 0 auto;
+}
+.paragraph_1
+{
+    font-family: 'Tekton Pro', serif;
+    color: #666;
+}
+.paragraph_2
+{
+    font-family: "Adobe Arabic", serif;
+    color: #FFA07A;
+}
+.paragraph_3
+{
+    font-family: "Calibri Light", serif;
+    font-style: italic;
+}
+.paragraph_4
+{
+    font-family: 'DialogInput', serif;
+    font-style: oblique;
+    color: #DAA520;
+}
+#head img
+{
+    width: 250px;
+    height: 150px;
+    float: left;
+}
